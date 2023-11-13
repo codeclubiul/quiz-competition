@@ -2,7 +2,7 @@
 ![image](https://github.com/codeclubiul/quiz-competition/assets/116361491/7977ad9b-849d-41cb-b877-ddc306323205)
 **Sahil Ahmad**
 ![image](https://github.com/codeclubiul/quiz-competition/assets/116361491/4827c0ef-52b2-4603-ba81-a678079ab440)
-**Mohd Moin Ahmad**
+**Mohd Moinuddin Fahad**
 ![image](https://github.com/codeclubiul/quiz-competition/assets/116361491/b4461521-74ab-4ba6-82d0-4f93705151e8)
 # Glimpse of Event
 ![image](https://github.com/codeclubiul/quiz-competition/assets/116361491/2a673137-0822-4a64-8860-21cd2e8349f4)
