@@ -1,3 +1,10 @@
+# Results
+
+**The results for the hackathon QUIZ competiton organised on 18/11/2023**
+
+**Total Marks : 30** <br> <br>
+
+
 | Rank | Name                     | Course | Year | Section | Marks | Time Taken      |
 |------|--------------------------|--------|------|---------|-------|-----------------|
 | 1    | RAHUL NISHAD             | BTech  | 2    | D       | 25    | 11 mins 29 secs |
